@@ -36,4 +36,5 @@ This script is designed to run independently without requiring manual dataset do
    ```bash
    pip install pandas matplotlib scikit-learn requests
 2. Run the script from your terminal:
-    python M25CSE026_prob4.py
+   ```bash
+   python M25CSE026_prob4.py
